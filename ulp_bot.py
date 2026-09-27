@@ -20,7 +20,7 @@ load_dotenv()
 BOT_TOKEN      = os.getenv("BOT_TOKEN", "8781111418:AAGrTW3sprBAGvo-j382qntzwyuCs0hxm4U")
 API_ID         = int(os.getenv("API_ID", "0") or "36481340")
 API_HASH       = os.getenv("API_HASH", "de04ccc76166e670153bba4e037ad5de")
-OWNER_IDS      = [8512332298]
+OWNER_IDS      = [8512332298,6028572049]
 OWNER_USERNAME = "@KANEKI_IDK"
 # ────────────────────────────────────────────────────────────
 
